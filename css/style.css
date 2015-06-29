@@ -89,3 +89,26 @@ h1,h2,h3,h4,h5,h6,p,a,span,li,body,div
 	padding-top: 50px;
 	padding-bottom: 50px;
 }
+
+#model
+{
+	background: url(../img/kid.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: #000;
+	height: 100%;
+}
+
+.modelcon
+{
+	background: rgba(255,255,100,0.6);
+	height: 100%;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.fa
+{
+	color: #000
+}
