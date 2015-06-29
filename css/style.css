@@ -1,0 +1,73 @@
+@import url(animate.css);
+@import url(bootstrap.css);
+@import url(font-awesome.min.css);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+@import url(http://fonts.googleapis.com/css?family=Muli);
+@import url(http://fonts.googleapis.com/css?family=Pacifico);
+@import url(metro-bootstrap.min.css);
+@import url(sidebar.css);
+
+body
+{
+	height: 100%;
+	background: #FFF
+}
+
+.jumbotron
+{
+	padding-bottom: 0;
+}
+
+.main
+{
+	background: url(../img/kids.jpg);
+	background-color: #FFF;
+	background-size: cover;
+	background-position: center;
+	height: calc(100% - 50px);
+	padding-top: 15%;
+	color: #000;
+	margin-bottom: 0;
+	padding: 0 0 0 0;
+}
+
+h1,h2,h3,h4,h5,h6,p,a,span,li,body,div
+{
+  font-family: 'Muli'
+}
+
+.maincon
+{
+	width: 100%;
+	background-color: rgba(0,255,255,0.5);
+	height: 100%;
+	padding-top: 16%;
+}
+
+.fill
+{
+	height: 100000px;
+}
+
+#about
+{
+	z-index: 0;
+}
+
+#about
+{
+	background: url(../img/oldman.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: #000;
+	height: 100%;
+}
+
+.aboutcon
+{
+	background: rgba(255,255,0,0.5);
+	height: 100%;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
