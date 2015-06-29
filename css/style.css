@@ -71,3 +71,21 @@ h1,h2,h3,h4,h5,h6,p,a,span,li,body,div
 	padding-top: 50px;
 	padding-bottom: 50px;
 }
+
+#aboutit
+{
+	background: url(../img/sage.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: #000;
+	height: 100%;
+}
+
+.aboutitcon
+{
+	background: rgba(255,0,255,0.6);
+	height: 100%;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
